@@ -1,0 +1,25 @@
+MEU LIVRO DEVOCIONAL - SITE PRONTO
+
+PUBLICAR
+1. Extraia o .zip. No GitHub crie um repositório (New repository).
+2. Add file > Upload files: envie index.html, favicon.png, css, js e data > Commit changes.
+3. Settings > Pages > Source: "Deploy from a branch" > main, pasta "/ (root)" > Save.
+4. Em 1 a 2 minutos o livro estará em https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+
+EDITAR
+- GitHub > Settings > Developer settings > Personal access tokens > Fine-grained tokens.
+  Restrinja a ESTE repositório e dê "Contents: Read and write".
+- No site clique em ⚙, preencha usuário, repositório, ramo (main) e pasta (data) e cole o token.
+- Clique em "✎ Editar". Cada parágrafo é um bloco: título, subtítulo, rubrica, texto, verso, tabela.
+  Atalhos: Ctrl+Shift+1 título · 2 subtítulo · 3 rubrica · 4 texto · 5 verso · 6 tabela · 7 sub-subtítulo.
+- "＋ Nova seção" cria um dia/capítulo; "Publicar no GitHub" grava.
+
+APAGAR SEÇÕES (novo)
+- Com o modo de edição ligado há duas formas:
+  a) botão "🗑 Apagar seção" na barra inferior (apaga a seção aberta);
+  b) a lixeira 🗑 ao lado de cada item do índice.
+- Seção ainda não publicada: é só descartada do navegador.
+- Seção já publicada: o site pede confirmação, tira a seção do data/indice.json e apaga o arquivo
+  em data/secoes/ do GitHub (cada apagamento vira um commit, então dá para recuperar pelo histórico do Git).
+
+Para trocar o nome do livro: edite o <title> e o <h1> do index.html e o texto "Meu Livro Devocional" em js/app.js.
