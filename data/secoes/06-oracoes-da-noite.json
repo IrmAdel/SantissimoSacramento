@@ -1,0 +1,18 @@
+{
+  "id":"06-oracoes-da-noite",
+  "titulo":"Orações da noite",
+  "modo":"prosa",
+  "paginaInicial":null,
+  "paginaFinal":null,
+  "blocos":[
+    {"tipo":"texto","pagina":null,"texto":"Pelo sinal da Santa Cruz, livrai-nos, Deus, Nosso Senhor, dos nossos inimigos. Em nome de Deus Pai, Filho e Espírito Santo. Amém! Meu Deus, meu Pai e Criador. Eu vos adoro e reverencio de todo o meu coração. Dou-vos infinitas graças por me terdes criado, feito cristã(o) e conservado neste dia. Creio em vós, porque sois a mesma verdade. Espero em vós, porque sois fiel às vossas promessas. Amo-vos de todo o meu coração, porque sois infinitamente bom e amável. E quero amor ao meu próximo como a mim mesmo, por amor de vós."},
+    {"tipo":"texto","pagina":null,"texto":"Exame de consciência - pensamentos, palavras, obras e omissões..."},
+    {"tipo":"texto","pagina":null,"texto":"Confissão - Misericordioso Deus, confesso que tenho pecado contra Ti, em pensamentos, palavras e ações; não Te amei de todo o meu coração, nem a meu próximo como a mim mesmo. Imploro a Tua compaixão; esquece o que fui, emenda o que sou, dirige o que serei; de modo que me alegre em Tua vontade e ande em Teus caminhos, por Jesus Cristo nosso Senhor. Amém. Ó Senhor, suplico que escutes compassivo minhas orações e me perdoes, pois a ti confesso os meus pecados; para que eu, acusado por minha consciência, seja absolvido por teu perdão, mediante Jesus Cristo nosso Senhor. Amém."},
+    {"tipo":"subtitulo","pagina":null,"texto":"Súplicas"},
+    {"tipo":"texto","pagina":null,"texto":"Dignai-vos, Senhor, conservar-me esta noite sem pecado; abençoai o meu descanso a fim de reparar as forças para vos servir melhor e com fervor. Corações santíssimos de Jesus e Maria, entregovos nesta noite a minha alma e o meu corpo, para que em vós repousem tranquilamente. "},
+    {"tipo":"texto","pagina":null,"texto":"Bondos São José, rogai por nós.\nJesus, Maria e José, minha alma é vossa.\nJesus, Maria e José, assisti-me na minha última hora."},
+    {"tipo":"subtitulo","pagina":null,"texto":"Oração pelos falecidos"},
+    {"tipo":"texto","pagina":null,"texto":"Ó Deus, que pela gloriosa ressurreição de teu Filho Jesus Cristo, destruíste a\nmorte e nos deste vida eterna. Concede que teus filhos, ressuscitados com Cristo,\nconheçam o poder de sua presença e se regozijem em sua eterna glória; o qual,\ncontigo e o Espírito Santo vive e reina, um só Deus pelos séculos dos séculos.\nAmém."},
+    {"tipo":"texto","pagina":null,"texto":"V - A divina proteção permaneça conosco para sempre.\nR - E com nossos irmãos ausentes. Amém.\nV - Que as almas dos fiéis, pela misericórdia de Deus, descansem em\npaz.\nR - Amém."}
+  ]
+}
