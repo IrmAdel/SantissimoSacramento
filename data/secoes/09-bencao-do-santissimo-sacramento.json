@@ -1,0 +1,19 @@
+{
+  "id":"09-bencao-do-santissimo-sacramento",
+  "titulo":"Bênção do Santíssimo Sacramento",
+  "modo":"prosa",
+  "paginaInicial":null,
+  "paginaFinal":null,
+  "blocos":[
+    {"tipo":"subtitulo","pagina":null,"texto":"Tão sublime"},
+    {"tipo":"texto","pagina":null,"texto":"Tão sublime Sacramento\nAdoremos neste altar.\nPois o Antigo Testamento\nDeu ao Novo o seu lugar.\nVenha a fé, por suplemento,\nOs sentidos completar.\n\nAo eterno Pai cantemos,\nE a Jesus, o Salvador;\nAo Espírito exaltemos,\nNa Trindade eterno amor:\nAo Deus Uno e Trino demos\nA alegria do louvor. Amém."},
+    {"tipo":"texto","pagina":null,"texto":"Oficiante - Do céu destes o Pão (T.P. Aleluia).\nPovo - Que contém todo sabor (T.P. Aleluia). "},
+    {"tipo":"texto","pagina":null,"texto":"OREMOS — Senhor Jesus Cristo, que, neste admirável sacramento, nos deixastes o memorial de vossa paixão, concedei-nos a graça de venerar de tal modo os sagrados mistérios de vosso corpo e sangue, que possamos experimentar sempre em nós o fruto de vossa redenção. Vós que viveis e reinas com o Pai na unidade do Espírito Santo.\nPovo - Amém."},
+    {"tipo":"subtitulo","pagina":null,"texto":"Depois da Benção"},
+    {"tipo":"texto","pagina":null,"texto":"Bendito seja Deus,\nbendito seja o seu santo nome,\nbendito seja Jesus Cristo, verdadeiro Deus e verdadeiro homem,\nbendito seja o nome de Jesus,\nbendito seja o seu sacratíssimo coração,\nbendito seja Jesus, no santíssimo sacramento do altar,\nbendita seja a grande mãe de Deus Maria Santíssima,\nbendita seja sua Santa piedosa Conceição,\nbendito seja o nome de Maria, virgem e mãe,\nbendito seja São José, seu castíssimo esposo,\nbendito seja Deus, nos seus anjos no seu Santos."},
+    {"tipo":"subtitulo","pagina":null,"texto":"Oração pela Pátria, pela Igreja e pela Primazia"},
+    {"tipo":"texto","pagina":null,"texto":"Deus e Senhor nosso; protegei a vossa Igreja, dai-lhe santos pastores e dignos ministros. Derramai as vossas bênçãos sobre Sua Graça, o(a) Arcebispo(a) de Cantuária, sobre o nosso Bispo, sobre o nosso Pároco, sobre todo o clero; sobre o chefe da Nação e do Estado e sobre todas as pessoas constituídas em dignidade, para que governem com justiça. Dai ao povo brasileiro paz constante e prosperidade completa. Favorecei, com os efeitos contínuos de vossa bondade, o Brasil, esta diocese, a paróquia em que habitamos, a cada um de nós em particular e a todas as pessoas por quem somos obrigados a orar ou que se recomendaram às nossas orações. Tende misericórdia das almas dos fiéis, dai-lhes, Senhor, o descanso e a luz eterna. Amém."},
+    {"tipo":"subtitulo","pagina":null,"texto":"Oração pelo Chefe da Igreja Mãe e sua Família"},
+    {"tipo":"texto","pagina":null,"texto":"Ó Senhor, nosso Pai celestial, alto e poderoso, Rei dos reis, Senhor dos senhores, único Governante dos príncipes, que do teu trono contemplas todos os habitantes da terra; rogamos-te cordialmente que, com o teu favor, contemples nosso graciosíssimo Soberano Senhor, o Rei Charles III, Chefe da Igreja-Mãe, a Igreja da Inglaterra; e de tal modo o cumules com a graça do teu Espírito Santo, que ele sempre se incline à tua vontade e ande no teu caminho: dota-o abundantemente com dons celestiais; concede-lhe longa vida em saúde e prosperidade; fortalece-o para que possa vencer e superar todos os seus inimigos, e, finalmente, depois desta vida, alcance a alegria e a felicidade eternas. E a ti, Deus Todo-Poderoso, fonte de toda bondade, humildemente suplicamos que abençoes nossa graciosa Rainha Camilla, William, Príncipe de Gales, a Princesa de Gales, e toda a Família Real: dota-os com o teu Espírito Santo; enriquece-os com a tua graça celestial; prospera-os com toda a felicidade; e conduz-os ao teu reino eterno; por Jesus Cristo, nosso Senhor. Amém."}
+  ]
+}
