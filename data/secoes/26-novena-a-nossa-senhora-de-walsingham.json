@@ -5,6 +5,406 @@
   "paginaInicial":null,
   "paginaFinal":null,
   "blocos":[
-    {"tipo":"texto","pagina":null,"texto":""}
+{
+    {
+      "tipo": "subtitulo",
+      "pagina": null,
+      "texto": "Orações Preparatórias para todos os dias da Novena a Nossa Senhora de Walsingham:"
+    },
+    {
+      "tipo": "texto",
+      "pagina": null,
+      "texto": "A devoção a Nossa Senhora de Walsingham está sempre centrada no Mistério da Anunciação. Foi na Anunciação que Nossa Senhora aceitou o convite de Deus para ser a Mãe de Deus, a Theotokos. Ela se entregou à vontade de Deus e concebeu pelo Espírito Santo. Por esse mesmo Espírito Santo, Maria sempre nos conduz a Jesus, e suas orações nos ajudam a dizer \"sim\" à vontade de Deus em nossas vidas, assim como ela disse na Anunciação."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "✠ Em nome do Pai, e do Filho, e do Espírito Santo. Amém."
+    },
+    {
+      "tipo": "subtitulo",
+      "pagina": null,
+      "texto": "Oração ao Espírito Santo do Cardeal Mercier"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Escrita por ele na Capela do Espírito Santo na Capela do Sapato (Slipper Chapel), Walsingham, Inglaterra"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "ESPÍRITO SANTO, alma da minha alma, eu vos adoro; iluminai-me, guiai-me, fortalecei-me e consolai-me; dizei-me o que devo fazer e ordenai-me que o faça. Prometo ser submisso em tudo o que me pedirdes e aceitar tudo o que permitirdes que me aconteça; apenas mostrai-me qual é a vossa vontade. Amém."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Pai Nosso... Ave Maria... Glória ao Pai..."
+    },
+    {
+      "tipo": "subtitulo",
+      "pagina": null,
+      "texto": "Antiga Oração de Walsingham"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Ó VÓS, a única entre todas as mulheres, Mãe e Virgem, Mãe felicíssima, Virgem puríssima, agora nós, pecadores como somos, vimos ver-vos, que sois toda pura; nós vos saudamos, nós vos honramos como podemos com nossas humildes oferendas; que vosso Filho nos conceda que, imitando vossos santíssimos costumes, também nós, pela graça do Espírito Santo, mereçamos conceber espiritualmente o Senhor Jesus em nossa alma mais íntima, e uma vez concebido, nunca o percamos. Amém."
+    },
+    {
+      "tipo": "subtitulo",
+      "pagina": null,
+      "texto": "Ladainha de Nossa Senhora de Walsingham"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Kyrie eleison\nChristi eleison\nKyrie eleison"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Deus Pai, criador do céu e da terra,\nDeus Filho, redentor do mundo,\nDeus Espírito Santo, santificador dos fiéis,\nMaria,\nMaria, sem pecado,\nMaria, Mãe de Deus,\nMaria, a Virgem,\nMaria, levada ao Céu,\nMaria em Belém,\nMaria em Nazaré,\nMaria em Caná,\nMaria na Cruz,\nMaria no Cenáculo,\nMaria modelo de feminilidade,\nMulher de Fé,\nMulher de Esperança,"
+    },
+    {
+      "tipo": "texto",
+      "pagina": null,
+      "texto": "Kyrie eleison\nChristi eleison\nKyrie eleison"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Tende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós.\nTende piedade de nós."
+    },
+    {
+      "tipo": "subtitulo",
+      "pagina": null,
+      "texto": "Orações para todos os dias da Novena a Nossa Senhora de Walsingham:"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Oração inicial para todos os dias:"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Sob a vossa proteção nos refugiamos, ó santa Mãe de Deus. Não desprezeis as nossas súplicas em nossas necessidades, mas livrai-nos de todos os perigos, ó Virgem gloriosa e bendita. Amém."
+    },
+    {
+      "tipo": "subsubtitulo",
+      "pagina": null,
+      "texto": "Primeiro Dia – A Anunciação do Senhor"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Pela graça de fazer a vontade de Deus"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Reflexão: Nossa Senhora ouviu a Palavra de Deus e a colocou em prática. Ela escutou com ouvido de discípula e fez a vontade de Deus. Com Maria, e por ela ensinados, nós também rezamos: \"Faça-se em mim segundo a vossa palavra\" (Lc 1,38)."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Intenção: Ofereçamos com Maria cada instante de nossa vida e especialmente aquelas decisões importantes que precisamos tomar. Durante nosso tempo de Peregrinação e Novena com Nossa Senhora de Walsingham, busquemos o silêncio tão necessário para entrar em profunda oração e relacionamento com Jesus, a fim de discernir nosso caminho adiante como indivíduos e como famílias. Rezamos pelas intenções do Papa e pelas da Igreja Universal."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Oração: Virgem Santíssima, Mãe do Verbo, intercedei por nós junto ao vosso Filho, para que tenhamos a graça de não buscar nada além de fazer a sua vontade, e a coragem de viver nossas vidas na fé daquele que se encarnou em vosso ventre, Jesus Cristo, nosso Senhor."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Pai Nosso… Ave Maria… Glória ao Pai…\nNossa Senhora de Walsingham, rogai por nós."
+    },
+    {
+      "tipo": "subsubtitulo",
+      "pagina": null,
+      "texto": "Segundo Dia – A Visitação de Nossa Senhora a Isabel"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Para levar e proclamar a Palavra de Deus"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Reflexão: Trazendo em seu ventre o Salvador da humanidade, o Verbo de Deus encarnado, Maria foi o mais rápido que pôde saudar Isabel, sua prima. João saltou no ventre de Isabel e ela ficou cheia do Espírito Santo. A alma de Maria proclamou a grandeza do Senhor. Com Isabel, e por ela ensinados, dizemos: \"Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre\" (Lc 1,42)."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Intenção: Rezemos pela graça de sermos testemunhas alegres do Evangelho de Jesus Cristo e que, com alegria e fé, estejamos preparados para viajar até os confins da terra para proclamar a \"Boa Nova da Salvação\" a todos os que encontrarmos. Rezamos pela missão da Igreja na Inglaterra e no País de Gales e por todas as nossas Dioceses."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Oração: Santa Maria, Mãe de Deus, fostes apressadamente compartilhar a boa nova da salvação com vossa prima Isabel. Que nós, que trazemos vosso Filho em nossos corações, possuamos o mesmo ardor de compartilhar com os outros a alegria que ele nos deu, para que, cheios do Espírito Santo, todos nos alegremos em Deus, nosso Salvador. Amém."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Pai Nosso… Ave Maria… Glória ao Pai…\nNossa Senhora de Walsingham, rogai por nós."
+    },
+    {
+      "tipo": "subsubtitulo",
+      "pagina": null,
+      "texto": "Terceiro Dia – O Nascimento de Nosso Senhor"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Pela proteção e santidade da vida, e pelas famílias"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Reflexão: \"O Verbo se fez carne e habitou entre nós\" (Jo 1,14). Por nosso amor e por nossa salvação ele desceu do Céu, Emanuel, Deus-conosco. Sua presença abençoou e santificou a vida de um lar terreno, e dele fez seu Céu, para que a família se torne um lugar de segurança, amor e paz. Ele se humilhou para compartilhar nossa humanidade, a fim de que compartilhássemos sua divindade."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Intenção: Rezamos pela proteção de toda vida, desde o momento da concepção até a morte natural, e rezamos para que uma cultura que respeite a santidade da vida, do matrimônio e da família volte a prevalecer em nosso país e comunidades."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Oração: Pai do céu, criador de tudo, no momento da história em que tudo estava pronto, enviaste vosso Filho para habitar entre nós, o Verbo feito carne, Emanuel. Ensinai-nos a respeitar a dignidade do matrimônio e a defender a santidade da vida humana desde o momento da concepção até a morte natural, e que nossos lares reflitam o amor da Sagrada Família."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Pai Nosso… Ave Maria… Glória ao Pai…\nNossa Senhora de Walsingham, rogai por nós."
+    },
+    {
+      "tipo": "subsubtitulo",
+      "pagina": null,
+      "texto": "Quarto Dia – O Ministério de Nosso Senhor"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Pela justiça, pela paz, e por todos os doentes e necessitados"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Reflexão: Nossa Senhora, como os profetas do Antigo Testamento, falou de Deus fazendo grandes coisas por ela, dispersando os soberbos e exaltando os humildes, alimentando os famintos e despedindo os ricos de mãos vazias (Lc 1,46). Nosso Senhor cumpriu as profecias, proclamando que viera trazer a Boa Nova aos pobres, a liberdade aos cativos, a vista aos cegos e libertar os oprimidos (Lc 4,18). Rezemos pela justiça e pela paz no mundo, particularmente por aqueles que mais precisam, bem como pela cura dos que estão doentes e em dificuldade."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Intenção: Rezamos por nossos entes queridos doentes, por aqueles de nossas famílias em maior necessidade, pelos sem-teto, pelos refugiados e migrantes sem país para chamar de lar. Elevamos todos os jovens para que anseiem ver a face de Deus."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Oração: Pai, que a paz que é o Reino de Deus flua para nós da verdade e da vida, da santidade e da graça, da justiça e do amor de vosso Filho Jesus Cristo. Rainha da Paz, alcançai para nós e para as nações do mundo a paz pela qual todos os povos anseiam. Amém."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Pai Nosso… Ave Maria… Glória ao Pai…\nNossa Senhora de Walsingham, rogai por nós."
+    },
+    {
+      "tipo": "subsubtitulo",
+      "pagina": null,
+      "texto": "Quinto Dia – A Crucifixão de Nosso Senhor"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Em reparação pela destruição do Santuário de Nossa Senhora de Walsingham durante a Reforma Inglesa, e pelos pecados de desunião na Igreja de Cristo"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Reflexão: Jesus disse: \"Quando eu for elevado da terra, atrairei todos a mim\" (Jo 12,32). Na véspera de sua paixão ele rezou: \"Pai, que eles sejam um em nós\" (Jo 17,21). \"Ele fez a paz pela sua morte na cruz\" (Cl 1,20). São João Paulo II, como preparação para o Grande Jubileu do ano 2000, pediu perdão a Deus pelos pecados dos filhos e filhas da Igreja, por uma \"Purificação da Memória\" de tudo o que causou escândalo, destruição e traição dentro e fora da Igreja. Nós, na Inglaterra, Dote de Maria, e no País de Gales, rezamos em Reparação pela destruição da Igreja e dos Santuários de Nossa Senhora em nossas terras, que infelizmente levou às divisões entre os cristãos que permanecem prevalentes até hoje."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Intenção: Rezamos pela graça da Unidade Cristã e pela cura das feridas dos pecados e da divisão, porque pela Santa Cruz Jesus redimiu o Mundo. Rezamos por todos os fiéis falecidos e por aqueles próximos da morte neste momento. Que descansem em paz e ressuscitem na glória. Amém."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Oração: Pai misericordiosíssimo, concedei-nos a graça da verdadeira dor pelos muitos pecados que ofendem o Sagrado Coração de vosso amado Filho e o Imaculado Coração de sua Santa Mãe, e concedei perdão e descanso às almas daqueles que, por qualquer motivo, destruíram o santo Santuário de Walsingham e provocaram divisões que duraram até nossos dias. Amém."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Pai Nosso… Ave Maria… Glória ao Pai…\nNossa Senhora de Walsingham, rogai por nós."
+    },
+    {
+      "tipo": "subsubtitulo",
+      "pagina": null,
+      "texto": "Sexto Dia – A Ressurreição de Nosso Senhor"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Em ação de graças pela Salvação"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Reflexão: \"A pedra que os construtores rejeitaram tornou-se a pedra angular\" (Sl 118,22). \"Cremos que, tendo morrido com Cristo, com ele viveremos\" (Rm 6,8). \"Todo aquele que invocar o nome do Senhor será salvo\" (At 2,21). Assim como os indivíduos são perdoados e ressuscitados pelo mistério da morte e ressurreição de Cristo, rezamos com Jesus para que \"todos recebam a vida eterna… e conheçam o único Deus verdadeiro, e Jesus Cristo a quem enviaste\" (Jo 17)."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Intenção: Agradecemos a Deus por nossa herança católica e pelo testemunho heroico de fé de nossos Mártires católicos. Que eles nos inspirem em nossos tempos de dificuldade e provação a permanecer firmes na fé, na oração e fiéis a Cristo e aos ensinamentos da Igreja. Rezamos por um espírito de renovação e aumento do zelo evangélico e do alcance missionário para a Igreja na Inglaterra e no País de Gales. Rezamos pela Conversão da Inglaterra e do País de Gales e de todo o mundo a Cristo e sua Igreja."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Oração: Deus sempre vivo, ajudai-nos a celebrar com alegria e ação de graças a ressurreição de vosso Filho, para que, assim como ele ressuscitou dos mortos, também nossas vidas mortais sejam coroadas pela alegria suprema de ressuscitar do pecado e da morte com ele para sempre, que fez todas as coisas novas. Amém."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Pai Nosso… Ave Maria… Glória ao Pai…\nNossa Senhora de Walsingham, rogai por nós."
+    },
+    {
+      "tipo": "subsubtitulo",
+      "pagina": null,
+      "texto": "Sétimo Dia – A Vinda do Espírito Santo"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Vinde, ó Espírito Santo, e renovai a face da Terra"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Reflexão: Os apóstolos todos \"perseveravam unânimes em oração, junto com algumas mulheres, incluindo Maria, a Mãe de Jesus\" (At 1,14). \"No Dia de Pentecostes estavam todos reunidos no mesmo lugar\" (At 2,1). \"E de repente veio do céu um som, como de um vento impetuoso, e encheu toda a casa onde estavam sentados. E apareceram-lhes línguas como de fogo, que se repartiram e pousaram sobre cada um deles. E todos ficaram cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito lhes concedia que falassem\" (At 2,2)."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Intenção: Rezamos pelas intenções dos Bispos, Sacerdotes, Religiosos e Religiosas, Homens e Mulheres Consagrados, e Eremitas, para que o poder do Espírito Santo os renove continuamente e os capacite para obras cada vez maiores na vinha do Senhor."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Oração: Senhor Jesus Cristo, reunistes vossos apóstolos em oração com Maria, a Mãe de Jesus, e os enchestes do Espírito Santo. Enviai o vosso Espírito sobre nós e renovai em nós as graças dos Sacramentos do Batismo e da Confirmação. Acendei-nos, Senhor, com uma paixão e amor cada vez maiores pelo Evangelho, que darão vida ao nosso testemunho cristão e trarão o cumprimento da \"segunda primavera\" da Fé Católica na Inglaterra e no País de Gales, como anunciado pelo Beato Domingos Barberi CP e pelo Beato John Henry Newman. Que sejamos mais uma vez uma Ilha de santos. Amém."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Pai Nosso… Ave Maria… Glória ao Pai…\nNossa Senhora de Walsingham, rogai por nós."
+    },
+    {
+      "tipo": "subsubtitulo",
+      "pagina": null,
+      "texto": "Oitavo Dia – A Assunção de Nossa Senhora"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Pelas vocações ao sacerdócio, ao diaconato e à vida religiosa"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Reflexão: \"Um grande sinal apareceu no Céu: uma mulher vestida do sol, com a lua debaixo dos pés, e na cabeça uma coroa de doze estrelas\" (Ap 12,1). As estrelas representam as doze tribos de Israel, o povo escolhido de Deus, e os santos apóstolos. Nossa Senhora é a Rainha dos sacerdotes e sua Mãe. Rezamos para que o Papa, os bispos, sacerdotes, diáconos, religiosos e consagrados da Igreja se coloquem próximos de Nossa Senhora como sua coroa, e que mulheres, homens e crianças em toda parte se ofereçam totalmente a Deus."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Intenção: Rezamos pelas intenções de todas as nossas Dioceses na Inglaterra e no País de Gales e por nossos Bispos. Rezamos pelas vocações ao Sacerdócio e por um florescimento da vida seminária. Rezamos por todos os seminaristas e por aqueles em processo de discernimento. Rezamos em ação de graças por nossas Ordens Religiosas, tanto ativas quanto contemplativas, e pelos Diáconos."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Oração: Pai, elevastes a Mãe de vosso Filho à glória do Céu; concedei, por sua intercessão, que os corações e mentes de todos se abram ao vosso chamado, para que, amando-vos acima de todas as coisas, sejamos sinais de vossa presença e servos ardentes mas gentis do Evangelho. Amém."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Pai Nosso… Ave Maria… Glória ao Pai…\nNossa Senhora de Walsingham, rogai por nós."
+    },
+    {
+      "tipo": "subsubtitulo",
+      "pagina": null,
+      "texto": "Nono Dia – A Coroação de Nossa Senhora"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Pela conversão da Inglaterra, Dote de Maria, e do País de Gales"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Reflexão: \"Eu vos confiro um reino, assim como meu Pai o confiou a mim: comereis e bebereis à minha mesa no meu reino, e vos sentareis em tronos para julgar as doze tribos de Israel\" (Lc 22,30). Venha a nós o vosso Reino, seja feita a vossa vontade assim na terra como no céu. Rezemos pela conversão de nosso país, para que, pelas orações reconciliadoras de Nossa Senhora de Walsingham, ele seja mais uma vez digno do título \"O Dote de Maria\"."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Intenção: Rezamos pelas intenções de Sua Majestade a Rainha, da Família Real, do Primeiro-Ministro e daqueles no governo nacional e local. Rezamos por uma renovação do matrimônio e da vida familiar na Inglaterra e no País de Gales e pelo retorno dos povos de nossa Nação a Cristo e às nossas raízes cristãs. Em nossa oração, tomamos a mão de Nossa Senhora de Walsingham, \"pois quando a Inglaterra voltar a Walsingham, Nossa Senhora voltará à Inglaterra\"."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Oração: Senhor Deus, no mistério da Encarnação, Maria concebeu vosso Filho em seu coração antes de concebê-lo em seu ventre. Assim como nós, vosso povo peregrino, nos alegramos com seu patrocínio, concedei que também nós o acolhamos em nossos corações e, assim como ela, sejamos feitos uma casa santa digna de sua eterna habitação. Pedimos isso por Nosso Senhor Jesus Cristo, vosso Filho, que vive e reina convosco na unidade do Espírito Santo, um só Deus para sempre. Amém."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "Pai Nosso… Ave Maria… Glória ao Pai…\nNossa Senhora de Walsingham, rogai por nós."
+    },
+    {
+      "tipo": "subtitulo",
+      "pagina": null,
+      "texto": "Orações finais para todos os dias da Novena a Nossa Senhora de Walsingham:"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Dia da Festa: 24 de setembro"
+    },
+    {
+      "tipo": "subtitulo",
+      "pagina": null,
+      "texto": "O Angelus"
+    },
+    {
+      "tipo": "rubrica",
+      "pagina": null,
+      "texto": "Uma oração de devoção e crença na Encarnação, em memória da primeira das alegrias de Nossa Senhora – \"A Anunciação\"."
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "V/. O Anjo do Senhor anunciou a Maria.\nR/. E ela concebeu do Espírito Santo.\nAve Maria…"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "V/. Eis aqui a escrava do Senhor.\nR/. Faça-se em mim segundo a vossa palavra.\nAve Maria…"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "V/. E o Verbo se fez carne (genuflectir)\nR/. E habitou entre nós.\nAve Maria…"
+    },
+    {
+      "tipo": "verso",
+      "pagina": null,
+      "texto": "V/. Rogai por nós, ó Santa Mãe de Deus.\nR/. Para que sejamos dignos das promessas de Cristo."
+    },
+    {
+      "tipo": "texto",
+      "pagina": null,
+      "texto": "Oremos: Derramai, ó Senhor, a vossa graça em nossos corações, para que, tendo conhecido pela mensagem do anjo a Encarnação de Cristo, vosso Filho, cheguemos, por sua Paixão e Cruz, à glória da Ressurreição. Pelo mesmo Cristo, nosso Senhor. Amém."
+    }
   ]
 }
