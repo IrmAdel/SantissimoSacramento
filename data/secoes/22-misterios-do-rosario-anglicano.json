@@ -5,9 +5,8 @@
   "paginaInicial":null,
   "paginaFinal":null,
   "blocos":[
+    {"tipo":"rubrica","pagina":null,"texto":"* Compilado pela The Collect Project."},
     {"tipo":"subtitulo","pagina":null,"texto":"Orações Iniciais"},
-    {"tipo":"rubrica","pagina":null,"texto":"* A partir daqui, todas as orações devem ser feitas com o Cordão de Oração Anglicano."},
-    {"tipo":"rubrica","pagina":null,"texto":"* As orações foram compiladas pela The Collect Project."},
     {"tipo":"subtitulo","pagina":null,"texto":"A Cruz"},
     {"tipo":"rubrica","pagina":null,"texto":"* Segure a cruz e diga:"},
     {"tipo":"texto","pagina":null,"texto":"✠ Em nome do Pai, do Filho e do Espírito Santo. Amém."},
