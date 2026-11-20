@@ -1,0 +1,10 @@
+{
+  "id":"23-ladainha-lauretana",
+  "titulo":"Ladainha Lauretana",
+  "modo":"prosa",
+  "paginaInicial":null,
+  "paginaFinal":null,
+  "blocos":[
+    {"tipo":"texto","pagina":null,"texto":""}
+  ]
+}
