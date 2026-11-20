@@ -6,12 +6,12 @@
   "paginaFinal":null,
   "blocos":[
     {"tipo":"rubrica","pagina":null,"texto":"* Começa no dia 3 de Outubro."},
-    {"tipo":"texto","pagina":null,"texto":" Ó Virgem Maria, abençoada sois vós pelo Senhor Deus Altíssimo entre todas as mulheres da terra. Vós sois a glória de Jerusalém, a alegria de Israel, a honra do nosso povo!"},
-    {"tipo":"texto","pagina":null,"texto":"Salve, ó Virgem, honra de nossa terra, a quem rendemos amor e veneração e a quem chamamos pelo nome de Aparecida!"},
-    {"tipo":"texto","pagina":null,"texto":"Quem poderá contar, ó doce Mãe, quantas graças que, durante tantos anos, alcançastes ao povo brasileiro, compadecida de nossos males?"},
-    {"tipo":"texto","pagina":null,"texto":"Quisemos vos honrar com uma coroa de ouro, que vos é devida por tantos títulos. Continuai a atender bondosamente nossas preces."},
-    {"tipo":"texto","pagina":null,"texto":"Quando erguermos ao céu nossas mãos, ouve clemente os nossos pedidos, ó Virgem! Conservai-nos afastados de todo pecado e, por fim, conduzi-nos ao céu."},
-    {"tipo":"texto","pagina":null,"texto":"Salvação, honra e poder Aquele que, uno e trino, nos altos céus, governa e rege o universo. Amém."},
+    {"tipo":"verso","pagina":null,"texto":" Ó Virgem Maria, abençoada sois vós pelo Senhor Deus Altíssimo entre todas as mulheres da terra. Vós sois a glória de Jerusalém, a alegria de Israel, a honra do nosso povo!"},
+    {"tipo":"verso","pagina":null,"texto":"Salve, ó Virgem, honra de nossa terra, a quem rendemos amor e veneração e a quem chamamos pelo nome de Aparecida!"},
+    {"tipo":"verso","pagina":null,"texto":"Quem poderá contar, ó doce Mãe, quantas graças que, durante tantos anos, alcançastes ao povo brasileiro, compadecida de nossos males?"},
+    {"tipo":"verso","pagina":null,"texto":"Quisemos vos honrar com uma coroa de ouro, que vos é devida por tantos títulos. Continuai a atender bondosamente nossas preces."},
+    {"tipo":"verso","pagina":null,"texto":"Quando erguermos ao céu nossas mãos, ouve clemente os nossos pedidos, ó Virgem! Conservai-nos afastados de todo pecado e, por fim, conduzi-nos ao céu."},
+    {"tipo":"verso","pagina":null,"texto":"Salvação, honra e poder Aquele que, uno e trino, nos altos céus, governa e rege o universo. Amém."},
     {"tipo":"texto","pagina":null,"texto":"Oficiante - A vossa Milagrosa Conceição, ó Virgem Mãe de Deus,"},
     {"tipo":"texto","pagina":null,"texto":"Povo - Anunciou a alegria ao mundo todo."},
     {"tipo":"texto","pagina":null,"texto":"OREMOS — Ó Deus, que, por intermédio da Mãe Piedosa de vosso Filho, multiplicastes os dons de vossa graça em nosso favor, concedei-nos propício que, celebrando na terra os louvores da mesma Virgem, pelas suas preces maternas, mereçamos alcançar o prêmio eterno no céu. Por Cristo, Nosso Senhor.\nPovo - Amém."}
