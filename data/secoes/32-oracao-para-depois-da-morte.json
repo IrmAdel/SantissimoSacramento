@@ -1,0 +1,10 @@
+{
+  "id":"32-oracao-para-depois-da-morte",
+  "titulo":"Oração para depois da morte",
+  "modo":"prosa",
+  "paginaInicial":null,
+  "paginaFinal":null,
+  "blocos":[
+    {"tipo":"texto","pagina":null,"texto":""}
+  ]
+}
