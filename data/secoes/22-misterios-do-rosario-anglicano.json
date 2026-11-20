@@ -5,13 +5,6 @@
   "paginaInicial":null,
   "paginaFinal":null,
   "blocos":[
-{
-  "id":"22-misterios-dos-rosario-anglicano",
-  "titulo":"Mistérios dos Rosário Anglicano",
-  "modo":"prosa",
-  "paginaInicial":null,
-  "paginaFinal":null,
-  "blocos":[
     {"tipo":"subtitulo","pagina":null,"texto":"Orações Iniciais"},
     {"tipo":"rubrica","pagina":null,"texto":"* A partir daqui, todas as orações devem ser feitas com o Cordão de Oração Anglicano."},
     {"tipo":"rubrica","pagina":null,"texto":"* As orações foram compiladas pela The Collect Project."},
